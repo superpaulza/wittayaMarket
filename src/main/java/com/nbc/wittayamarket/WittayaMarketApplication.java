@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WittayaMarketApplication {
 
     public static void main(String[] args) {
+        System.out.println("Helloworld!");
         SpringApplication.run(WittayaMarketApplication.class, args);
     }
 }
